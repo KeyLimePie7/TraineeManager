@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sat Jul 15 11:57:41 SGT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0189-57b2-78f7-00000f6a9eb8 
+on database directory C:\Users\Byron\Desktop\TraineeMgmtSystem\traineeDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+Loaded from file:/C:/Users/Byron/Desktop/TraineeMgmtSystem/src/main/webapp/WEB-INF/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.7+7
+user.dir=C:\Users\Byron\Desktop\TraineeMgmtSystem
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Jul 15 11:57:41 SGT 2023: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Jul 15 11:57:41 SGT 2023:
+Shutting down instance a816c00e-0189-57b2-78f7-00000f6a9eb8 on database directory C:\Users\Byron\Desktop\TraineeMgmtSystem\traineeDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+----------------------------------------------------------------
